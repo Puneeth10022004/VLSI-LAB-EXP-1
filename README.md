@@ -1,4 +1,6 @@
-# VLSI-LAB-EXPERIMENTS
+EXP 1: SIMULATION AND IMPLEMENTATION OF LOGIC GATE , ADDERS & SUBTRACTOR 
+DATE :
+
 AIM: To simulate and synthesis Logic Gates,Adders and Subtractor using Xilinx ISE.
 
 APPARATUS REQUIRED: Xilinx 14.7 Spartan6 FPGA
