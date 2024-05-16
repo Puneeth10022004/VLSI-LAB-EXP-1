@@ -47,5 +47,5 @@ OUTPUT:
 
 -----Place a Waveform Generated from Xilinx ISE
 
-RESULT:
+RESULT: Hence, the stimulation and synthisis of a Logic Gates , Adders and Subtractor was run successfully by using vivado ISE
 
